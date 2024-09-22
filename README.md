@@ -25,7 +25,7 @@ Al finalizar el diseño, se toma capturas de pantalla de la vista del editor de 
 [![Captura-de-pantalla-2024-09-22-104500.png](https://i.postimg.cc/595br9Yq/Captura-de-pantalla-2024-09-22-104500.png)](https://postimg.cc/F1KMd4x7)
 
 ### Aplicación en Ejecución
-[![Captura-de-pantalla-2024-09-22-104344.png](https://i.postimg.cc/YS8Q8BNp/Captura-de-pantalla-2024-09-22-104344.png)](https://postimg.cc/3y4yJ6b6)
+[![Captura-de-pantalla-2024-09-22-105448.png](https://i.postimg.cc/xdc5hd6s/Captura-de-pantalla-2024-09-22-105448.png)](https://postimg.cc/KKhtgmSL)
 
 ## Instalación
 
