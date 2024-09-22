@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="question_champions_ganador">El Real Madrid ganó la Champions League 2023/2024.</string>
+    <string name="question_lugar_Final">La final de la Champions League 2023/2024 se jugó en el Estadio Olímpico Atatürk</string>
+    <string name="question_empezo">La Champions League 2023/2024 comenzó en junio.</string>
+    <string name="question_formato">El formato de la Champions League 2023/2024 incluyó 36 equipos en la fase de grupos.</string>
+    <string name="question_cuando_Final">La final de la Champions League 2023/2024 se jugó el 1 de junio de 2024.</string>
+    <string name="correct_toast">Correcto!!!</string>
+    <string name="incorrect_toast">Incorrecto!!!</string>
+    <string name="next_button">Siguiente</string>
+    <string name="prev_button">Anterior</string>
+</resources>
